@@ -1,0 +1,10 @@
+x = int(input())
+y = int(input())
+res = x+y
+dif = x-y
+mul = x*y
+divi = x/y
+print(x,"+",y,"=",res)
+print(x,"-",y,"=",dif)
+print(x,"*",y,"=",mul)
+print(x,"/",y,"=",divi)
